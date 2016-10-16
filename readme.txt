@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changs.
 Creating a new branch is quick and simple in dev add merge.
+goto "bug";
+
